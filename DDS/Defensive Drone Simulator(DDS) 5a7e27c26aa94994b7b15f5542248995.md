@@ -3,6 +3,9 @@
 ## What is this?
 
  The defensive drone simulator application plays a significant role in our proposed system. It computes the future GPS coordinates of the malicious drone based on its past trajectory. The computed GPS data is then translated back into control data using the DJI Android API, allowing the defensive drone to autonomously fly to the calculated GPS point.
+ 
+<br>
+<br>
 
 ### What are functions?
 
@@ -11,10 +14,17 @@
 3. Autonomous drone driving.
 4. Save the Log file(.csv).
 
+<br>
+<br>
+
 ### Test Environment
 
 - Device: galaxy tab a7 lite (Android 11)
 - laptop: Macbook Air 2(M2)
+
+
+<br>
+<br>
 
 ### 🖥️ Application User Interface
 
@@ -27,6 +37,11 @@ The widget settings rate is aligned with the tablet rate. If you want to see a s
 - Main Page
 
 ![Untitled](Defensive%20Drone%20Simulator(DDS)%205a7e27c26aa94994b7b15f5542248995/Untitled%201.png)
+
+
+<br>
+<br>
+
 
 ### 📁 Directory
 
@@ -63,6 +78,9 @@ The widget settings rate is aligned with the tablet rate. If you want to see a s
 │           └── themes.xml
 ```
 
+<br>
+<br>
+
 ### ⚠️ Precautions
 
 - You need to connect your DJI drone to go to the main page of the app. You cannot go to the main page of the app without the drone.
@@ -70,6 +88,10 @@ The widget settings rate is aligned with the tablet rate. If you want to see a s
 - You must restart the application after compiling it to run the application.
 
 ---
+
+<br>
+<br>
+
 
 ## 🗒️ Environment settings
 
@@ -163,6 +185,9 @@ For further detail on how to integrate the DJI Android SDK into your Android Stu
 
 ---
 
+<br>
+<br>
+
 ## 📚 Reference
 
 The following reference were used to develop the application.
@@ -174,6 +199,9 @@ The following reference were used to develop the application.
 - [https://github.com/DJI-Mobile-SDK-Tutorials](https://github.com/DJI-Mobile-SDK-Tutorials)
 
 ---
+
+<br>
+<br>
 
 ## 📞 Contact
 
