@@ -3,6 +3,8 @@
 ## What is this?
 
   The Malicious drone simulator application takes over the detection aspect of the anti-drone system. By utilizing the DJI Android API, the malicious Drone Simulator application establishes a connection with a DJI drone, which assumes the role of a malicious drone. It retrieves the GPS data of the connected drone and transmits it to the server.
+<br>
+<br>
 
 ### What are functions?
 
@@ -10,10 +12,16 @@
 2. Transfer data to a database(Firebase)
 3. Save the Log file(.csv).
 
+<br>
+<br>
+
 ### Test Environment
 
 - Device: Motorola g7 (Android 10)
 - laptop: Macbook Air 2(M2)
+
+<br>
+<br>
 
 ### 🖥️ Application User Interface
 
@@ -24,6 +32,9 @@
 - Main Page
 
 ![Untitled](Malicious%20Drone%20Simulator(MDS)%20175031bb2dde4afc8c811734529cca52/Untitled%201.png)
+
+<br>
+<br>
 
 ### 📁 Directory
 
@@ -55,6 +66,10 @@
 │       └── xml
 ```
 
+
+<br>
+<br>
+
 ### ⚠️Precautions
 
 - You need to connect your DJI drone to go to the main page of the app. You cannot go to the main page of the app without the drone.
@@ -62,6 +77,10 @@
 - You must restart the application after compiling it to run the application.
 
 ---
+
+<br>
+<br>
+
 
 ## 🗒️ Environment settings
 
@@ -153,6 +172,9 @@ For further detail on how to integrate the DJI Android SDK into your Android Stu
 
 ---
 
+<br>
+<br>
+
 ## 📚 Reference
 
 The following reference were used to develop the application.
@@ -163,6 +185,10 @@ The following reference were used to develop the application.
 - [https://github.com/DJI-Mobile-SDK-Tutorials](https://github.com/DJI-Mobile-SDK-Tutorials)
 
 ---
+
+<br>
+<br>
+
 
 ## 📞 Contact
 
