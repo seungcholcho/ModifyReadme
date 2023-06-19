@@ -20,8 +20,8 @@ with the implementation of an active malicious drone chasing strategy.
 ## 📜 Problem Statements
 
 1.  The limitations of sensor categorization include poor resolution due to signal wavelength, limited range affected by signal strength and receiver sensitivity, and weather conditions like rain or fog that can affect accuracy.
-2. Unlike military situations, it is difficult to shoot down or mitigate directly in civilian situations
-3. The use of anti-drone systems in civilian areas may cause secondary damage
+2. Unlike military situations, it is difficult to shoot down or mitigate directly in civilian situations.
+3. The use of anti-drone systems in civilian areas may cause secondary damage.
 <br>
 <br>
 
