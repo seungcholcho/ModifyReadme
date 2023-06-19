@@ -28,7 +28,7 @@ with the implementation of an active malicious drone chasing strategy.
 
 ## ⚖️ Research novelties
 
-1. We solve the limitations of long distances on the sensor and artificial intelligence performance by implementing physical tracking on drones
+1. We solve the limitations of long distances on the sensor and artificial intelligence performance by implementing physical tracking on drones.
 2. We concentrate on public anti-drone systems, placing a priority on minimizing unintended secondary damage caused by misrecognition and miscategorization.
 3. Being closer to the drone reduces the time required for mitigation, thereby enhancing operational efficiency.
 <br>
