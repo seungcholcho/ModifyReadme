@@ -11,7 +11,7 @@
 ## 🚀 Project title
 
 A new approach to improving the overall anti-drone system performance
-with the implementation of an active (autonomous) malicious drone chasing strategy.
+with the implementation of an active malicious drone chasing strategy.
 <br><br>
 
 
