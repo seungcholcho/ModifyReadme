@@ -9,7 +9,7 @@
 ### What are functions?
 
 1. Display TSPI data.
-2. Transfer data to a database(Firebase)
+2. Transfer data to a database(Firebase).
 3. Save the Log file(.csv).
 
 <br>
