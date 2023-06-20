@@ -45,8 +45,8 @@ with the implementation of an active malicious drone chasing strategy.
 
 ## 📞 Contact
 
-- Seungchol Cho ([cho559@purdue.edu](mailto:cho559@purdue.edu))
-- Uk Jang ([ujang@purdue.edu](mailto:ujang@purdue.edu))
-- Youngseo Chang ([chang982@purdue.edu](mailto:chang982@purdue.edu))
-- William Choi ([choi928@purdue.edu](mailto:choi928@purdue.edu))
-- Soogyeong Shin ([shin416@purdue.edu](mailto:shin416@purdue.edu))
+- Seungchol Cho ([seung.chol.cho@gmail.com](mailto:seung.chol.cho@gmail.com))
+- Uk Jang ([mag0225@naver.com](mailto:mag0225@naver.com))
+- Youngseo Chang ([0jysjis0@kyonggi.ac.kr](mailto:0jysjis0@kyonggi.ac.kr))
+- William Choi ([km010723@gmail.com](mailto:km010723@gmail.com))
+- Soogyeong Shin ([soogyeong00@gmail.com](mailto:soogyeong00@gmail.com))
